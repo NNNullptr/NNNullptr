@@ -7,7 +7,7 @@
 
 ### About Me
   I'm a mathematics student majoring in Information and Computing Science, currently diving deep into the world of AI and coding. 
-  **Tech Stack**：Python / Linux
+* **Tech Stack**：Python / Linux / Java / HTML / JS / CSS 
 
   <p align="center">
   <img src="https://raw.githubusercontent.com/NNNullptr/NNNullptr/output/github-contribution-grid-snake.svg" alt="Github Graduation Snake" />
