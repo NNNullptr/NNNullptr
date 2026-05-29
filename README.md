@@ -5,10 +5,6 @@
 
 # Hi, I'm NNNullptr!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NNNullptr&show_icons=true&theme=radical&show_popup=true" width="60%" />
-</p>
-
 ### About Me
   I'm a mathematics student majoring in Information and Computing Science, currently diving deep into the world of AI and coding. 
   **Tech Stack**：Python / Linux
