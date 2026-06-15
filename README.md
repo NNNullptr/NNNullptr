@@ -1,5 +1,4 @@
 <p align="center">
-  <img width="48%" height="220" style="object-fit: cover;" alt="bg1" src="https://github.com/user-attachments/assets/a55df7c8-c626-4d54-8837-fedd8ba64dae" />
   <img width="48%" height="220" style="object-fit: cover;" alt="bg3" src="https://github.com/user-attachments/assets/764dd8d6-0475-4307-b35d-6fb820822467" />
 </p>
 
