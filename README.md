@@ -2,11 +2,6 @@
   <img width="48%" height="220" style="object-fit: cover;" alt="bg3" src="https://github.com/user-attachments/assets/764dd8d6-0475-4307-b35d-6fb820822467" />
 </p>
 
-<p align="center">
-  <img src="https://moe-counter.glitch.me/get/@NNNullptr?theme=rule34" alt="Moe Counter" style="display:none;" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" />
-  <img src="https://loading.io/assets/mod/spinner/infinity/lg.gif" width="30" />
-</p>
 
 # Hi, I'm NNNullptr!
 
